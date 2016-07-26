@@ -1,0 +1,5 @@
+C:\src\RealtimeETW\EventTraceLibrary\bin\Debug\EtwTraceLibrary.dll
+C:\src\RealtimeETW\EventTraceLibrary\bin\Debug\EtwTraceLibrary.pdb
+C:\src\RealtimeETW\EventTraceLibrary\obj\Debug\EtwTraceLibrary.csprojResolveAssemblyReference.cache
+C:\src\RealtimeETW\EventTraceLibrary\obj\Debug\EtwTraceLibrary.dll
+C:\src\RealtimeETW\EventTraceLibrary\obj\Debug\EtwTraceLibrary.pdb

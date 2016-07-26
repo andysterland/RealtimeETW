@@ -1,0 +1,10 @@
+C:\src\RealtimeETW\UnitTests\bin\Debug\UnitTests.dll
+C:\src\RealtimeETW\UnitTests\bin\Debug\UnitTests.pdb
+C:\src\RealtimeETW\UnitTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\src\RealtimeETW\UnitTests\bin\Debug\OM.dll
+C:\src\RealtimeETW\UnitTests\bin\Debug\EtwTraceLibrary.dll
+C:\src\RealtimeETW\UnitTests\bin\Debug\OM.pdb
+C:\src\RealtimeETW\UnitTests\bin\Debug\EtwTraceLibrary.pdb
+C:\src\RealtimeETW\UnitTests\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
+C:\src\RealtimeETW\UnitTests\obj\Debug\UnitTests.dll
+C:\src\RealtimeETW\UnitTests\obj\Debug\UnitTests.pdb

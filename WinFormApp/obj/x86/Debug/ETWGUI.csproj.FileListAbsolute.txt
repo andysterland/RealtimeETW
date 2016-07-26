@@ -1,0 +1,14 @@
+C:\src\RealtimeETW\WinFormApp\bin\Debug\Events.xml
+C:\src\RealtimeETW\WinFormApp\bin\Debug\ETWGUI.exe
+C:\src\RealtimeETW\WinFormApp\bin\Debug\ETWGUI.pdb
+C:\src\RealtimeETW\WinFormApp\bin\Debug\OM.dll
+C:\src\RealtimeETW\WinFormApp\bin\Debug\EtwTraceLibrary.dll
+C:\src\RealtimeETW\WinFormApp\bin\Debug\OM.pdb
+C:\src\RealtimeETW\WinFormApp\bin\Debug\EtwTraceLibrary.pdb
+C:\src\RealtimeETW\WinFormApp\obj\x86\Debug\ETWGUI.csprojResolveAssemblyReference.cache
+C:\src\RealtimeETW\WinFormApp\obj\x86\Debug\WinFormApp.frmSettings.resources
+C:\src\RealtimeETW\WinFormApp\obj\x86\Debug\WinFormApp.MainWindow.resources
+C:\src\RealtimeETW\WinFormApp\obj\x86\Debug\ETWGUI.Properties.Resources.resources
+C:\src\RealtimeETW\WinFormApp\obj\x86\Debug\ETWGUI.csproj.GenerateResource.Cache
+C:\src\RealtimeETW\WinFormApp\obj\x86\Debug\ETWGUI.exe
+C:\src\RealtimeETW\WinFormApp\obj\x86\Debug\ETWGUI.pdb

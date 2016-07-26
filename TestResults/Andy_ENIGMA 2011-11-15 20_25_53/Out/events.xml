@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Settings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EtwEvents>
+    <EtwEventInfo>
+      <ProviderGuid>9e3b3947-ca5d-4614-91a2-7b624e0e7244</ProviderGuid>
+      <Name>Mshtml_DOM_CustomSiteEvent</Name>
+      <Description>Mshtml_DOM_CustomSiteEvent - Fired</Description>
+      <Color>red</Color>
+    </EtwEventInfo>
+  </EtwEvents>
+</Settings>

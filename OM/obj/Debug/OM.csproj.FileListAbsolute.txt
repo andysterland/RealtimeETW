@@ -1,0 +1,7 @@
+C:\src\RealtimeETW\OM\bin\Debug\OM.dll
+C:\src\RealtimeETW\OM\bin\Debug\OM.pdb
+C:\src\RealtimeETW\OM\bin\Debug\EtwTraceLibrary.dll
+C:\src\RealtimeETW\OM\bin\Debug\EtwTraceLibrary.pdb
+C:\src\RealtimeETW\OM\obj\Debug\OM.csprojResolveAssemblyReference.cache
+C:\src\RealtimeETW\OM\obj\Debug\OM.dll
+C:\src\RealtimeETW\OM\obj\Debug\OM.pdb
